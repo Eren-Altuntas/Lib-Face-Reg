@@ -1,0 +1,12 @@
+1. Tkinter
+2. Pyqrcode
+3. Pyzbar
+4. PIL
+5. png
+6. sqlite3
+7. random
+8. time
+9. cv2
+10. face_recognition
+11. os
+12. datetime
